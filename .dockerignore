@@ -1,0 +1,6 @@
+.git
+.idea
+venv
+*.pyc
+*.pyo
+README.md
